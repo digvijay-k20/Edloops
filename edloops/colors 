@@ -1,0 +1,22 @@
+	#FFD700-gold
+    #FF69B4-hot pink
+<h1 >Easy To Find Your Mentor Based On Interest!</h1>
+<p>Start Your learning from today,Find your niche,<br>Find your Mentor</p>
+<button type="button" class="btn btn-light btn-lg"><i class="fa-brands fa-google-play"></i> Play Store</button>
+<button type="button" class="btn btn-dark btn-lg"><i class="fa-brands fa-apple"></i>  App Store</button> 
+
+<div class="row">
+    <div class="col-3 col-lg-6">
+    <h1 class="font">Easy To Find Your Mentor Based On Interest!</h1>
+    <p>Start Your learning from today,Find your niche,<br>Find your Mentor</p>
+    <button type="button" class="btn btn-dark btn-lg download-button"><i class="fa-brands fa-apple"></i>  Download</button>
+    <button type="button" class="btn btn-outline-light btn-lg  download-button "> <i class="fa-brands fa-google-play"></i> Download</button>
+   </div>
+
+  <div>
+  <div class="col-lg-6  ">
+    <div class="im">
+    <img  src="images/download-2.jpg" alt="iphone-mockup" >
+  </div>
+  </div>
+    </div>
